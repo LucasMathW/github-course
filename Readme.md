@@ -4,8 +4,6 @@ Esse é um repositório Teste, para ensinar como um git funciona
 
 Saima mais no link: [Lucas.com.br]
 
-Aprendendo Git
-
 #Botão de Doação PayPal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -14,5 +12,4 @@ Aprendendo Git
 <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-#voltando pro curso! 
 
