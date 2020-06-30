@@ -1,7 +1,7 @@
 # Git Course
-Esse é um repositório Teste, para ensinar como um git funciona
+Esse é um repositório Teste, usado para aprender noções básicas de git e git-hub.
 
-Saima mais no link: [Lucas.com.br]
+Saiba mais sobre mim, em meu perfíl no Linkedin: [https://www.linkedin.com/in/lucas-matheus-marques-de-alencar-11843b176/]
 
 #Botão de Doação PayPal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
